@@ -3,3 +3,10 @@
 
 **таксон**: Actinobacteria  
 **род**: Bifidobacterium 
+
+**Геномы**: 
+- Bifidobacterium actinocoloniiforme DSM 22766
+- Bifidobacterium angulatum DSM 20098 = JCM 7096
+- Bifidobacterium animalis subsp. lactis BLC1
+- Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043
+- Bifidobacterium pseudolongum
