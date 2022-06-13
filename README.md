@@ -10,3 +10,13 @@
 - Bifidobacterium animalis subsp. lactis BLC1
 - Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043
 - Bifidobacterium pseudolongum
+
+**Таблица** 
+
+|Название вида                                                                          |Количество хромосом| Длина генома            |
+|:--------------------------------------------------------------------------------------|:------------------|:------------------------|
+|Bifidobacterium animalis subsp. lactis BLC1                                            | 1                 |1938583                  |
+|Bifidobacterium angulatum DSM 20098 = JCM 7096 chromosome                              | 1                 |2021974                  |
+|Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043 strain JCM 1194 chromosome| 1                 |2079525                  |
+|Bifidobacterium actinocoloniiforme DSM 22766 chromosome                                | 1                 |1830060                  |
+|Bifidobacterium pseudolongum strain UMB-MBP-01 chromosome                              | 1                 |2008102                  |
