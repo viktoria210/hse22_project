@@ -5,18 +5,21 @@
 **род**: Bifidobacterium 
 
 **Геномы**: 
-- Bifidobacterium actinocoloniiforme DSM 22766
-- Bifidobacterium angulatum DSM 20098 = JCM 7096
-- Bifidobacterium animalis subsp. lactis BLC1
-- Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043
-- Bifidobacterium pseudolongum
+- Bifidobacterium actinocoloniiforme DSM 22766 chromosome  (Bifidobacterium actinocoloniiforme)
+- Bifidobacterium angulatum DSM 20098 = JCM 7096 chromosome (Bifidobacterium angulatum)
+- Bifidobacterium animalis subsp. lactis BLC1 (Bifidobacterium animalis)
+- Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043 strain JCM 1194 chromosome (Bifidobacterium catenulatum )
+- Bifidobacterium pseudolongum strain UMB-MBP-01 chromosome (Bifidobacterium pseudolongum)
 
 **Таблица** 
 
-|Название вида                                                                          |Количество хромосом| Длина генома            |
-|:--------------------------------------------------------------------------------------|:------------------|:------------------------|
-|Bifidobacterium animalis subsp. lactis BLC1                                            | 1                 |1938583                  |
-|Bifidobacterium angulatum DSM 20098 = JCM 7096 chromosome                              | 1                 |2021974                  |
-|Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043 strain JCM 1194 chromosome| 1                 |2079525                  |
-|Bifidobacterium actinocoloniiforme DSM 22766 chromosome                                | 1                 |1830060                  |
-|Bifidobacterium pseudolongum strain UMB-MBP-01 chromosome                              | 1                 |2008102                  |
+|Название вида                        |Количество хромосом| Длина генома  | Кол-во * участков Z-DNA |Кол-во * участков Z-DNA ** |
+|:------------------------------------|:------------------|:--------------|:------------------------|:--------------------------|
+|Bifidobacterium animalis             | 1                 |1938583        |1938583                  |27687                      |
+|Bifidobacterium angulatum            | 1                 |2021974        |2021974                  |19073                      |
+|Bifidobacterium catenulatum          | 1                 |2079525        |2079525                  |17128                      |
+|Bifidobacterium actinocoloniiforme   | 1                 |1830060        |1830060                  |15248                      |
+|Bifidobacterium pseudolongum         | 1                 |2008102        |2008102                  |53153                      |
+
+* - Количество ***предсказанных*** участков Z-DNA с помощью программы ***Z-HUNT***.
+** - * с ZH-score > 500 
