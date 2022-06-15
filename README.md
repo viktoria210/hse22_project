@@ -11,7 +11,7 @@
 - Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043 strain JCM 1194 chromosome (Bifidobacterium catenulatum )
 - Bifidobacterium pseudolongum strain UMB-MBP-01 chromosome (Bifidobacterium pseudolongum)
 
-**Таблица** 
+## Таблица
 
 |Название вида                        |Количество хромосом| Количество аннотированных генов | доля аннотированных генов в геноме |Длина генома (bp)  | Кол-во участков Z-DNA* |Кол-во участков Z-DNA** |
 |:------------------------------------|:------------------|:--------------------------------|:-----------------------------|:-------------------|:------------------------|:--------------------------|
@@ -23,4 +23,12 @@
 
  '*' - Количество ***предсказанных*** участков Z-DNA с помощью программы ***Z-HUNT***.
 
- '**' - * с ZH-score > 500 
+ '**' - * с ZH-score > 500
+ 
+ ## Гистограммы значений zh-score для всех геномов, полученных с помощью Zhunt
+![image](https://user-images.githubusercontent.com/60792064/173845842-d039b442-68a6-4071-9df3-e0361d31087a.png)
+![image](https://user-images.githubusercontent.com/60792064/173845883-5856714e-6025-4c66-8359-395d8ebcfd7a.png)
+![image](https://user-images.githubusercontent.com/60792064/173845901-37dfa1f0-c5a9-4115-a205-b12712d20196.png)
+![image](https://user-images.githubusercontent.com/60792064/173845922-a0da3520-8b18-48da-9b58-c8906d56d49d.png)
+![image](https://user-images.githubusercontent.com/60792064/173845950-c06bd01f-45f8-48e2-a60f-f73cda3f128d.png)
+
