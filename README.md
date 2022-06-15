@@ -11,7 +11,7 @@
 - Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043 strain JCM 1194 chromosome (Bifidobacterium catenulatum )
 - Bifidobacterium pseudolongum strain UMB-MBP-01 chromosome (Bifidobacterium pseudolongum)
 
-![Ссылка на Google Colab]('https://colab.research.google.com/drive/1nPwuXqnlYLaghuUytmimn0YXrnsKLu0f?usp=sharing')
+![Ссылка на Google Colab](https://colab.research.google.com/drive/1nPwuXqnlYLaghuUytmimn0YXrnsKLu0f?usp=sharing)
 
 ## Таблица
 
@@ -65,6 +65,7 @@
 |  2 | catenulatum        |                                         15 |                           355 |
 |  3 | actinocoloniiforme |                                        209 |                          4909 |
 |  4 | pseudolongum       |                                         36 |                           872 |
+
 ![image](https://user-images.githubusercontent.com/60792064/173955042-ad2842ab-2d7f-4669-a9af-d4f9fa4800c9.png)
 ![image](https://user-images.githubusercontent.com/60792064/173955056-cd89a399-21eb-4c7a-a87c-9d766fa734ca.png)
 ![image](https://user-images.githubusercontent.com/60792064/173955075-8bffa6a5-ac70-4894-8ff7-d01ad32e30f3.png)
