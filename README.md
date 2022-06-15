@@ -74,3 +74,12 @@
 
 Можем наблюдать давольно большое количество предсказанных G-квадруплексов в целом. Однако консервативность не наблюдаем, как и в ситуации с Z-DNA. 
 
+==> quad_intersect_animalis.bed <==
+
+==> quad_intersect_angulatum.bed <==
+
+==> quad_intersect_catenulatum.bed <==
+
+==> quad_intersect_actinocoloniiforme.bed <==
+
+==> quad_intersect_pseudolongum.bed <==
