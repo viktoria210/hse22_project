@@ -11,6 +11,8 @@
 - Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043 strain JCM 1194 chromosome (Bifidobacterium catenulatum )
 - Bifidobacterium pseudolongum strain UMB-MBP-01 chromosome (Bifidobacterium pseudolongum)
 
+![Ссылка на Google Colab]('https://colab.research.google.com/drive/1nPwuXqnlYLaghuUytmimn0YXrnsKLu0f?usp=sharing')
+
 ## Таблица
 
 |Название вида                        |Количество хромосом| Количество аннотированных генов | доля аннотированных генов в геноме |Длина генома (bp)  | Кол-во участков Z-DNA* |Кол-во участков Z-DNA** |Общая длина участков с zh_score > 500|
@@ -42,3 +44,32 @@
 |0               |    1581       |
 
 Таким образом можем наблюдать только один кластер, в котором объекты объединены отсутствием левозакрученной спирали.
+
+## Aссоциирования Z-DNA с генами
+**Bifidobacterium actinocoloniiforme**
+![image](https://user-images.githubusercontent.com/60792064/173954479-235d2940-d294-494b-a596-19429d038317.png)
+**Bifidobacterium angulatum**
+![image](https://user-images.githubusercontent.com/60792064/173954496-b9e244ca-0168-4aee-911d-3c9594e30865.png)
+**Bifidobacterium animalis**
+![image](https://user-images.githubusercontent.com/60792064/173954549-78aceddf-3ee5-4f18-9a6d-277ba9f2978e.png)
+**Bifidobacterium catenulatum**
+![image](https://user-images.githubusercontent.com/60792064/173954589-c85e0764-0958-4525-8f23-f82fb91c5a72.png)
+**Bifidobacterium pseudolongum**
+![image](https://user-images.githubusercontent.com/60792064/173954605-e405cc4c-103d-44cf-9c52-9811f20a24b2.png)
+
+## G-Квадруплексы
+|    | Название           |   Количество предсказанных G-квадруплексов |   Общая длина G-квадруплексов |
+|---:|:-------------------|-------------------------------------------:|------------------------------:|
+|  0 | animalis           |                                         42 |                          1018 |
+|  1 | angulatum          |                                         39 |                           904 |
+|  2 | catenulatum        |                                         15 |                           355 |
+|  3 | actinocoloniiforme |                                        209 |                          4909 |
+|  4 | pseudolongum       |                                         36 |                           872 |
+![image](https://user-images.githubusercontent.com/60792064/173955042-ad2842ab-2d7f-4669-a9af-d4f9fa4800c9.png)
+![image](https://user-images.githubusercontent.com/60792064/173955056-cd89a399-21eb-4c7a-a87c-9d766fa734ca.png)
+![image](https://user-images.githubusercontent.com/60792064/173955075-8bffa6a5-ac70-4894-8ff7-d01ad32e30f3.png)
+![image](https://user-images.githubusercontent.com/60792064/173955086-04b0d746-b64e-49ce-bba1-34e11938ae5c.png)
+![image](https://user-images.githubusercontent.com/60792064/173955094-4c179720-15d5-4c93-8021-5b15cc82ef4c.png)
+
+Можем наблюдать давольно большое количество предсказанных G-квадруплексов в целом. Однако консервативность не наблюдаем, как и в ситуации с Z-DNA. 
+
