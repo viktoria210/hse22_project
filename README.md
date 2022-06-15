@@ -32,3 +32,7 @@
 ![image](https://user-images.githubusercontent.com/60792064/173845922-a0da3520-8b18-48da-9b58-c8906d56d49d.png)
 ![image](https://user-images.githubusercontent.com/60792064/173845950-c06bd01f-45f8-48e2-a60f-f73cda3f128d.png)
 
+## Полученные гомологичные кластеры
+![image](https://user-images.githubusercontent.com/60792064/173872594-ac425bb2-baaa-4649-ab19-726314ae1d61.png)
+![image](https://user-images.githubusercontent.com/60792064/173872616-7fe237fa-e1b0-44fd-bf17-a09d5975137a.png)
+
