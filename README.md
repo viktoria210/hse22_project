@@ -45,17 +45,6 @@
 
 Таким образом можем наблюдать только один кластер, в котором объекты объединены отсутствием левозакрученной спирали.
 
->AEN76886.1 hypothetical protein BLC1_1112 [Bifidobacterium animalis subsp. lactis BLC1]
->AEN77261.1 DedA family protein [Bifidobacterium animalis subsp. lactis BLC1]
->AEN75865.1 FHA domain protein [Bifidobacterium animalis subsp. lactis BLC1]
->AEN75898.1 NAD-dependent epimerase/dehydratase [Bifidobacterium animalis subsp. lactis BLC1]
->AEN76745.1 Ppx/GppA phosphatase family protein [Bifidobacterium animalis subsp. lactis BLC1]
->AEN76146.1 50S ribosomal protein L3 [Bifidobacterium animalis subsp. lactis BLC1]
->AEN77230.1 sulfatase [Bifidobacterium animalis subsp. lactis BLC1]
->AEN76238.1 HAD-superfamily hydrolase [Bifidobacterium animalis subsp. lactis BLC1]
->AEN76534.1 ribulose-phosphate 3-epimerase [Bifidobacterium animalis subsp. lactis BLC1]
->AEN76798.1 putative DNA recombination-mediator protein A [Bifidobacterium animalis subsp. lactis BLC1]
-
 |Количество генов в кластере |Гены                  |Функции генов                |
 |:---------------------------|:---------------------|:----------------------------|
 | 5                           |AEN76886.1            |hypothetical protein BLC1_1112|
